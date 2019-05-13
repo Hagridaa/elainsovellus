@@ -1,5 +1,10 @@
 package elainkauppa.test;
 
+import java.sql.SQLException;
+
+import elainkauppa.model.Elain;
+import elainkauppa.model.dao.ElainDAO;
+
 public class ElainDAOTest {
 
 	public static void main(String[] args) {
