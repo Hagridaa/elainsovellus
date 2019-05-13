@@ -1,2 +1,2 @@
 # elainsovellus
-##Koulun Java peruskurssin harjoitustyönä pieni sovellus
+## Koulun Java peruskurssin harjoitustyönä pieni sovellus
